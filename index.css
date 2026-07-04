@@ -12,6 +12,10 @@ button{
     grid-area: 2/1/3/2;
     font-size: 50px;
 }
+#lang button.active {
+    border: 2px solid #000;
+    background-color: #eef;
+}
 #navbar{
     background-color: aqua;
     grid-area: 1/1/2/4;
